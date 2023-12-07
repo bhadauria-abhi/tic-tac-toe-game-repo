@@ -1,1 +1,2 @@
-# tic-tac-toe-game-repo
+project  = tic toe game
+skills = html ,css and javascript;
